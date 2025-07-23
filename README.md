@@ -1,4 +1,4 @@
-# E-Commerce
+
 # "JavaKart E-commerce Project 🚀
 
   Developed a console-based e-commerce application using Java. JavaKart is a simple e-commerce application that demonstrates basic shopping cart functionality.
